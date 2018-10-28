@@ -1,2 +1,0 @@
-@echo off
-lupdate -tr-function-alias qsTr=qsTr config\controller.js packages\org.miamplayer.core\meta\installscript_core.js packages\org.miamplayer.core\meta\targetwidget.ui packages\org.miamplayer.core\meta\copybitcoinaddressform.ui packages\org.miamplayer.plugins\meta\package.xml    packages\org.miamplayer.plugins.windowstoolbar\meta\package.xml -ts packages\org.miamplayer.core\meta\fr_fr.ts

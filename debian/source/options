@@ -1,5 +1,0 @@
-tar-ignore = .git
-tar-ignore = lib
-tar-ignore = osx
-tar-ignore = windows
-

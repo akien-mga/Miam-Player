@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>translations/tabPlaylists_el.qm</file>
-        <file>translations/tabPlaylists_en.qm</file>
-        <file>translations/tabPlaylists_fr.qm</file>
-        <file>translations/tabPlaylists_ru.qm</file>
-        <file>translations/tabPlaylists_zh.qm</file>
-    </qresource>
-</RCC>
